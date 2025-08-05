@@ -1,0 +1,1 @@
+print("ebar hoy kin a dekhi")
